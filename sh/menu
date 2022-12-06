@@ -1,0 +1,2 @@
+#!/bin/sh
+rofi -show drun -theme ~/.config/rofi/launchers/type-1/style-5.rasi

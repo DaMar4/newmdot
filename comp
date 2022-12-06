@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+#complementos
+yay -S nordvpn-bin rofi rofi-nordvpn-git candy-icons-git ttf-iosevka --noconfirm
